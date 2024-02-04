@@ -4,3 +4,5 @@ Repo for the Data Science salary prediction of the Data Science Project Scratch 
 Considerations: https://github.com/arapfaik/scraping-glassdoor-selenium
 
 https://www.youtube.com/@KenJee_ds
+
+(Removed the webscrapping files, beacause it was deprecated and not working anymore). 
